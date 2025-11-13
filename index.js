@@ -10,7 +10,7 @@ app.get('/read-file', (req, res) => {
     if (!StudentName) {
         return res.status(400).json({ error: 'Please provide a name query parameter as (?name=Studentname)' })
     }
-    fs.readFile('student.json', 'utf-8', (err, data) => {
+    fs.readFile('students.json', 'utf-8', (err, data) => {
         if (err) {
             return res.status(500).json({ error: 'Error reading the file '})
         }
@@ -26,4 +26,5 @@ app.get('/read-file', (req, res) => {
 })
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
+
 })
