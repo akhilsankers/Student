@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "John",
+    "age": 20,
+    "grade": "A",
+    "total_marks": 450,
+    "email": "john.doe@example.com",
+    "course": "Computer Science"
+  },
+  {
+    "id": 2,
+    "name": "Mary",
+    "age": 19,
+    "grade": "B+",
+    "total_marks": 420,
+    "email": "mary.jane@example.com",
+    "course": "Information Technology"
+  },
+  {
+    "id": 3,
+    "name": "David",
+    "age": 21,
+    "grade": "A-",
+    "total_marks": 440,
+    "email": "david.smith@example.com",
+    "course": "Electronics Engineering"
+  },
+  {
+    "id": 4,
+    "name": "Sophia",
+    "age": 18,
+    "grade": "A",
+    "total_marks": 460,
+    "email": "sophia.johnson@example.com",
+    "course": "Computer Science"
+  },
+  {
+    "id": 5,
+    "name": "Liam",
+    "age": 22,
+    "grade": "C",
+    "total_marks": 350,
+    "email": "liam.wilson@example.com",
+    "course": "Mechanical Engineering"
+  },
+  {
+    "id": 6,
+    "name": "Olivia",
+    "age": 20,
+    "grade": "B",
+    "total_marks": 410,
+    "email": "olivia.brown@example.com",
+    "course": "Information Technology"
+  },
+  {
+    "id": 7,
+    "name": "Noah",
+    "age": 21,
+    "grade": "B+",
+    "total_marks": 430,
+    "email": "noah.jones@example.com",
+    "course": "Civil Engineering"
+  },
+  {
+    "id": 8,
+    "name": "Emma",
+    "age": 19,
+    "grade": "A",
+    "total_marks": 455,
+    "email": "emma.miller@example.com",
+    "course": "Computer Science"
+  },
+  {
+    "id": 9,
+    "name": "Ava",
+    "age": 18,
+    "grade": "B",
+    "total_marks": 400,
+    "email": "ava.davis@example.com",
+    "course": "Artificial Intelligence"
+  },
+  {
+    "id": 10,
+    "name": "William",
+    "age": 23,
+    "grade": "C+",
+    "total_marks": 360,
+    "email": "william.moore@example.com",
+    "course": "Electrical Engineering"
+  }
+]
