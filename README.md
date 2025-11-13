@@ -1,4 +1,4 @@
-⚙️ Install Dependencies
+ Install Dependencies
 
 Open a terminal inside the project folder.
 
